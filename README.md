@@ -1,6 +1,6 @@
-# pong_game
+# pong-game
 
-## Para jogar este jogo é necessário ter instalada a biblioteca pygame
+## To run this game it's necessary to install pygame library in your system
 
 pip3 install pygame
 
